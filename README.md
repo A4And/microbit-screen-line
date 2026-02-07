@@ -2,6 +2,7 @@
 > Ouvrir cette page à [https://a4and.github.io/microbit-screen-line/](https://a4and.github.io/microbit-screen-line/)
 
 ## Utiliser comme extension
+Texte Test
 
 Ce dépôt peut être ajouté en tant qu'**extension** dans MakeCode.
 
